@@ -9,14 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-
-    "@tiptap/extension-link": "^2.22.3",
-    "@tiptap/extension-mention": "^2.22.3",
-    "@tiptap/extension-placeholder": "^2.22.3",
-    "@tiptap/react": "^2.22.3",
-    "@tiptap/starter-kit": "^2.22.3",
-    "class-variance-authority": "^0.7.1",
-
     "@lexical/link": "^0.32.1",
     "@lexical/react": "^0.32.1",
     "class-variance-authority": "^0.7.1",
